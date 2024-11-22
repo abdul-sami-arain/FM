@@ -1,0 +1,22 @@
+.quick-view-attributes-main{
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+    gap: 15px;
+    align-items: start;
+    justify-content: start;
+}
+
+.quick-view-attribute-heading{
+    color: #fff;
+    font-size: 18px;
+    line-height: 22px;
+    font-weight: 500;
+}
+
+.quick-view-atribute-option-name{
+    font-size: 13px;
+    line-height: 18px;
+    font-weight: 400;
+    color: #fff;
+}
